@@ -1,6 +1,6 @@
 import { Grid } from '@mui/material';
 import Input from '../../components/common/Input';
-import { imgToDO_app } from '../../assets';
+import imgToDO_app from '../../assets/ToDO_app.svg';
 
 import CustomButton from '../../components/common/CustomButton';
 import { useForm } from '../../hooks/useForm';

@@ -3,7 +3,7 @@ import CustomButton from '../common/CustomButton';
 import Input from '../common/Input';
 import { useForm } from '../../hooks/useForm';
 import { Grid } from '@mui/material';
-import { imgToDO_app } from '../../assets';
+import imgToDO_app from '../../assets/ToDO_app.svg';
 import { pickScreen } from '../../interfaces/todo.interface';
 
 interface Props {

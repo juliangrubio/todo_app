@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useState } from 'react';
 import { Box } from '@mui/material';
 
 import imgContainer from '../../assets/bg.jpg';
